@@ -1,0 +1,25 @@
+Option Explicit 
+ 
+Sub CombineFiles() 
+     
+    Dim Path            As String 
+    Dim FileName        As String 
+    Dim Wkb             As Workbook 
+    Dim WS              As Worksheet 
+     
+    Application.EnableEvents = False 
+    Application.ScreenUpdating = False 
+    Path = "C:\Users\VASU\Desktop\TABS SOFT COPY" 'Change as needed
+    FileName = Dir(Path & "\*.xls", vbNormal) 
+    Do Until FileName = "" 
+        Set Wkb = Workbooks.Open(FileName:=Path & "\" & FileName) 
+        For Each WS In Wkb.Worksheets 
+            WS.Copy After:=ThisWorkbook.Sheets(ThisWorkbook.Sheets.Count) 
+        Next WS 
+        Wkb.Close False 
+        FileName = Dir() 
+    Loop 
+    Application.EnableEvents = True 
+    Application.ScreenUpdating = True 
+     
+End Sub 
