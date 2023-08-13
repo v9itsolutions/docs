@@ -1,0 +1,596 @@
+<table style='font-family:Calibri;'><tr style='height:50px;'><td style='text-align:center; background-color:#FBD3B4; color:#333; font-size:18px; font-weight:bold;border-top:1px solid #333; border-left:1px solid #333;border-right:1px solid #333; vertical-align:middle;'>R1.2 Component Wise Status Report as on (31-Jul-2023 10:33:45)</td></tr><tr><td><table style='font-family:Calibri;'><tr style='height:50px;'> <td style='text-align:center; background-color:#FBD3B4; color:#333; font-size:18px; font-weight:bold;border-top:1px solid #333; border-left:1px solid #333;border-right:1px solid #333; vertical-align:middle;'>Executing Agency : --SELECT-- , Disrict Name : --SELECT-- , Mandal Name :All , School Name : All</td></tr><tr><td><style> .textmode { mso-number-format:\@; } TABLE { border: 1px solid #333; } TD { border: 1px solid #333; } TH {color: #ffffff;}</style> 
+                                <table id="tblComponent" border="0" class="table table-striped table-bordered table-shadow"
+                                    cellpadding="0" cellspacing="0">
+                                    <thead>
+                                        <tr class="gridHeader">
+                                            <th style="width: 5%;" class="gridHeader sorting_disabled" rowspan="2">Sl. No.
+                                            </th>
+                                            <th style="width: 15%;" rowspan="2">Work Type Name
+                                            </th>
+                                            <th style="width: 20%; text-align: center;" colspan="2">Sanctioned Details
+                                            </th>
+                                            <th style="width: 30%; text-align: center;" colspan="3">Inprogress Details
+                                            </th>
+                                            <th style="width: 30%; text-align: center;" colspan="3">Completed
+                                            </th>
+                                            <th style="width: 30%; text-align: center;" rowspan="2">Total Expenditure
+                                            </th>
+                                        </tr>
+                                        <tr class="gridHeader">
+                                            <th align="center" style="width: 10%;">No. of Works
+                                            </th>
+                                            <th align="center" style="width: 10%;">Estimated Cost
+                                            </th>
+                                            <th align="center" style="width: 10%;">No. of Works
+                                            </th>
+                                            <th align="center" style="width: 10%;">Estimated Cost
+                                            </th>
+                                            <th align="center" style="width: 10%;">Expenditure
+                                            </th>
+                                            <th align="center" style="width: 10%;">No. of Works
+                                            </th>
+                                            <th align="center" style="width: 10%;">Estimated Cost
+                                            </th>
+                                            <th align="center" style="width: 10%;">Expenditure
+                                            </th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                            
+                                <tr class="gridRow">
+                                    <td style="width: 5%;" align="center">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl01_lblSlNo">1</span>
+                                    </td>
+                                    <td style="width: 15%; text-align: left;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl01_lnkWorkname">Construction of Toilet with Running Water</span>
+                                    </td>
+                                    <td align="center" style="width: 10%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl01_lblAdminVAlue">14079</span>
+                                    </td>
+                                    <td align="center" style="width: 10%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl01_Label1">83521.01</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl01_Label2">13693</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl01_Label4">82250.36</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl01_Label5">51911.93</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl01_Label6">10 (0.07%)</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl01_Label7">27.71</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl01_Label8">26.46</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl01_Label9">51938.4</span>
+                                    </td>
+
+                                </tr>
+                            
+                                <tr class="gridRow">
+                                    <td style="width: 5%;" align="center">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl02_lblSlNo">2</span>
+                                    </td>
+                                    <td style="width: 15%; text-align: left;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl02_lnkWorkname">Providing Electrification with Fans and Tube Lights</span>
+                                    </td>
+                                    <td align="center" style="width: 10%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl02_lblAdminVAlue">14023</span>
+                                    </td>
+                                    <td align="center" style="width: 10%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl02_Label1">19349.05</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl02_Label2">11427</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl02_Label4">16546.22</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl02_Label5">9175.45</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl02_Label6">62 (0.44%)</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl02_Label7">66.61</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl02_Label8">48.37</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl02_Label9">9223.82</span>
+                                    </td>
+
+                                </tr>
+                            
+                                <tr class="gridRow">
+                                    <td style="width: 5%;" align="center">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl03_lblSlNo">3</span>
+                                    </td>
+                                    <td style="width: 15%; text-align: left;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl03_lnkWorkname">Drinking Water Supply</span>
+                                    </td>
+                                    <td align="center" style="width: 10%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl03_lblAdminVAlue">14208</span>
+                                    </td>
+                                    <td align="center" style="width: 10%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl03_Label1">33304.83</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl03_Label2">8292</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl03_Label4">21239.41</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl03_Label5">5349.02</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl03_Label6">1 (0.01%)</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl03_Label7">2.62</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl03_Label8">3.78</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl03_Label9">5352.8</span>
+                                    </td>
+
+                                </tr>
+                            
+                                <tr class="gridRow">
+                                    <td style="width: 5%;" align="center">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl04_lblSlNo">4</span>
+                                    </td>
+                                    <td style="width: 15%; text-align: left;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl04_lnkWorkname">Furniture for Students and Staff</span>
+                                    </td>
+                                    <td align="center" style="width: 10%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl04_lblAdminVAlue">14131</span>
+                                    </td>
+                                    <td align="center" style="width: 10%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl04_Label1">51895.84</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl04_Label2">8318</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl04_Label4">34720.84</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl04_Label5">24388.61</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl04_Label6">59 (0.42%)</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl04_Label7">193.44</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl04_Label8">141.71</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl04_Label9">24530.32</span>
+                                    </td>
+
+                                </tr>
+                            
+                                <tr class="gridRow">
+                                    <td style="width: 5%;" align="center">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl05_lblSlNo">5</span>
+                                    </td>
+                                    <td style="width: 15%; text-align: left;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl05_lnkWorkname">Painting to School</span>
+                                    </td>
+                                    <td align="center" style="width: 10%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl05_lblAdminVAlue">14083</span>
+                                    </td>
+                                    <td align="center" style="width: 10%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl05_Label1">28221.08</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl05_Label2">41</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl05_Label4">147.75</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl05_Label5">11.15</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl05_Label6">0 (0%)</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl05_Label7">0</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl05_Label8">0</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl05_Label9">11.15</span>
+                                    </td>
+
+                                </tr>
+                            
+                                <tr class="gridRow">
+                                    <td style="width: 5%;" align="center">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl06_lblSlNo">6</span>
+                                    </td>
+                                    <td style="width: 15%; text-align: left;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl06_lnkWorkname">Major and Minor Repairs</span>
+                                    </td>
+                                    <td align="center" style="width: 10%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl06_lblAdminVAlue">14023</span>
+                                    </td>
+                                    <td align="center" style="width: 10%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl06_Label1">70857.96</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl06_Label2">12874</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl06_Label4">67868.45</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl06_Label5">38496.1</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl06_Label6">5 (0.04%)</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl06_Label7">15.18</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl06_Label8">15.33</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl06_Label9">38511.43</span>
+                                    </td>
+
+                                </tr>
+                            
+                                <tr class="gridRow">
+                                    <td style="width: 5%;" align="center">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl07_lblSlNo">7</span>
+                                    </td>
+                                    <td style="width: 15%; text-align: left;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl07_lnkWorkname">Green Chalk Boards</span>
+                                    </td>
+                                    <td align="center" style="width: 10%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl07_lblAdminVAlue">14091</span>
+                                    </td>
+                                    <td align="center" style="width: 10%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl07_Label1">8100.41</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl07_Label2">674</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl07_Label4">361.67</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl07_Label5">185.75</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl07_Label6">0 (0%)</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl07_Label7">0</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl07_Label8">0</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl07_Label9">185.75</span>
+                                    </td>
+
+                                </tr>
+                            
+                                <tr class="gridRow">
+                                    <td style="width: 5%;" align="center">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl08_lblSlNo">8</span>
+                                    </td>
+                                    <td style="width: 15%; text-align: left;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl08_lnkWorkname">Construction of Additional Class Rooms (NABARD (RIDF XXV) through PC)</span>
+                                    </td>
+                                    <td align="center" style="width: 10%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl08_lblAdminVAlue">8886</span>
+                                    </td>
+                                    <td align="center" style="width: 10%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl08_Label1">378900.13</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl08_Label2">8636</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl08_Label4">370769.62</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl08_Label5">120694.33</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl08_Label6">0 (0%)</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl08_Label7">0</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl08_Label8">0</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl08_Label9">120694.33</span>
+                                    </td>
+
+                                </tr>
+                            
+                                <tr class="gridRow">
+                                    <td style="width: 5%;" align="center">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl09_lblSlNo">9</span>
+                                    </td>
+                                    <td style="width: 15%; text-align: left;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl09_lnkWorkname">Construction of Compound Walls</span>
+                                    </td>
+                                    <td align="center" style="width: 10%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl09_lblAdminVAlue">5998</span>
+                                    </td>
+                                    <td align="center" style="width: 10%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl09_Label1">52459.5</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl09_Label2">4525</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl09_Label4">40493.84</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl09_Label5">9876.07</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl09_Label6">2 (0.03%)</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl09_Label7">2.61</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl09_Label8">1.15</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl09_Label9">9877.21</span>
+                                    </td>
+
+                                </tr>
+                            
+                                <tr class="gridRow">
+                                    <td style="width: 5%;" align="center">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl10_lblSlNo">10</span>
+                                    </td>
+                                    <td style="width: 15%; text-align: left;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl10_lnkWorkname">English Labs</span>
+                                    </td>
+                                    <td align="center" style="width: 10%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl10_lblAdminVAlue">8018</span>
+                                    </td>
+                                    <td align="center" style="width: 10%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl10_Label1">4089.18</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl10_Label2">129</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl10_Label4">65.79</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl10_Label5">26.42</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl10_Label6">0 (0%)</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl10_Label7">0</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl10_Label8">0</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl10_Label9">26.42</span>
+                                    </td>
+
+                                </tr>
+                            
+                                <tr class="gridRow">
+                                    <td style="width: 5%;" align="center">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl11_lblSlNo">11</span>
+                                    </td>
+                                    <td style="width: 15%; text-align: left;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl11_lnkWorkname">Kitchen Shed</span>
+                                    </td>
+                                    <td align="center" style="width: 10%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl11_lblAdminVAlue">9231</span>
+                                    </td>
+                                    <td align="center" style="width: 10%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl11_Label1">20733.61</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl11_Label2">6369</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl11_Label4">16674.11</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl11_Label5">8362.45</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl11_Label6">51 (0.55%)</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl11_Label7">51.71</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl11_Label8">36.44</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl11_Label9">8398.9</span>
+                                    </td>
+
+                                </tr>
+                            
+                                <tr class="gridRow">
+                                    <td style="width: 5%;" align="center">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl12_lblSlNo">12</span>
+                                    </td>
+                                    <td style="width: 15%; text-align: left;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl12_lnkWorkname">Co-Located Anganwadi Centers</span>
+                                    </td>
+                                    <td align="center" style="width: 10%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl12_lblAdminVAlue">4399</span>
+                                    </td>
+                                    <td align="center" style="width: 10%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl12_Label1">14822.26</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl12_Label2">4384</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl12_Label4">14781.72</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl12_Label5">1932.75</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl12_Label6">2 (0.05%)</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl12_Label7">9.5</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl12_Label8">2.85</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl12_Label9">1935.6</span>
+                                    </td>
+
+                                </tr>
+                            
+                                <tr class="gridRow">
+                                    <td style="width: 5%;" align="center">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl13_lblSlNo">13</span>
+                                    </td>
+                                    <td style="width: 15%; text-align: left;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl13_lnkWorkname">Multiple Works Expenditure</span>
+                                    </td>
+                                    <td align="center" style="width: 10%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl13_lblAdminVAlue">0</span>
+                                    </td>
+                                    <td align="center" style="width: 10%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl13_Label1">0</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl13_Label2">0</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl13_Label4">0</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl13_Label5">0</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl13_Label6"></span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl13_Label7">0</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl13_Label8">0</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl13_Label9">1409.08</span>
+                                    </td>
+
+                                </tr>
+                            
+                                <tr class="gridRow">
+                                    <td style="width: 5%;" align="center">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl14_lblSlNo">14</span>
+                                    </td>
+                                    <td style="width: 15%; text-align: left;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl14_lnkWorkname">Parents committee expenditure </span>
+                                    </td>
+                                    <td align="center" style="width: 10%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl14_lblAdminVAlue">0</span>
+                                    </td>
+                                    <td align="center" style="width: 10%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl14_Label1">0</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl14_Label2">0</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl14_Label4">0</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl14_Label5">0</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl14_Label6"></span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl14_Label7">0</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl14_Label8">0</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl14_Label9">1013.23</span>
+                                    </td>
+
+                                </tr>
+                            
+                                <tr class="gridRow">
+                                    <td style="width: 5%;" align="center">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl15_lblSlNo">15</span>
+                                    </td>
+                                    <td style="width: 15%; text-align: left;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl15_lnkWorkname">Total</span>
+                                    </td>
+                                    <td align="center" style="width: 10%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl15_lblAdminVAlue">135170</span>
+                                    </td>
+                                    <td align="center" style="width: 10%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl15_Label1">766254.86</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl15_Label2">79362</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl15_Label4">665919.8</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl15_Label5">270410.02</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl15_Label6">192 (0.14%)</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl15_Label7">369.37</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl15_Label8">276.09</span>
+                                    </td>
+                                    <td align="center" style="width: 8%;">
+                                        <span id="ctl00_ContentPlaceHolder1_rptComponentWise_Excel_ctl15_Label9">273108.43</span>
+                                    </td>
+
+                                </tr>
+                            
+                                </tbody> </table>
+                            
